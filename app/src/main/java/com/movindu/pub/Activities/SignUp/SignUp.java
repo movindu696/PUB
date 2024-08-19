@@ -60,7 +60,7 @@ public class SignUp extends Activity {
                     if(Config.isValidEmail(email.getText().toString())){
                         checkUserIsExistOrNot(email.getText().toString(),name.getText().toString(),password.getText().toString());
                     }else{
-                        System.out.println("enter valid email toast");
+                        System.out.println("Enter valid email toast");
                     }
                 }else{
                     System.out.println("enter 8 lenght pass toast");
