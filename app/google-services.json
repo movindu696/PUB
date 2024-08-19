@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1085001156251",
+    "firebase_url": "https://pub-e7341-default-rtdb.firebaseio.com",
+    "project_id": "pub-e7341",
+    "storage_bucket": "pub-e7341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085001156251:android:367d4c02778c5144d4683e",
+        "android_client_info": {
+          "package_name": "com.movindu.pub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBME4mTP1G5hkpkmVOrtPeJut3o6MOpFy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
